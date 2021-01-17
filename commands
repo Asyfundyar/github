@@ -1,11 +1,11 @@
- git config --global user.name "Asfandyar Khan"
+git config --global user.name "Asfandyar Khan"
  
- git config --global user.email gulshierkhan@gmail.com
+git config --global user.email gulshierkhan@gmail.com
  
- code // to open vscode
+code // to open vscode
  
- git config --global core.editor "code --wait" // set vscode as default editor
+git config --global core.editor "code --wait" // set vscode as default editor
  
- git config --global -e // to open config file
+git config --global -e // to open config file
 
 git config --global core.autocrlf input
